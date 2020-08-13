@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "343534148833",
+    "firebase_url": "https://realtime-firebase-databa-63a22.firebaseio.com",
+    "project_id": "realtime-firebase-databa-63a22",
+    "storage_bucket": "realtime-firebase-databa-63a22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343534148833:android:d72d939c20517abb922ba0",
+        "android_client_info": {
+          "package_name": "com.example.realtimefirebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343534148833-tpf3gdso4aghp9mm1js1busr0k1rvq66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZilBDVhG0IxkzY2Ny-HJSy8KG8fCOiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343534148833-tpf3gdso4aghp9mm1js1busr0k1rvq66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
